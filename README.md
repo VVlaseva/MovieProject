@@ -32,6 +32,12 @@ Data Cleaning and Preparation
 ### Dashboard
 <img width="1158" height="1010" alt="Dashboard" src="https://github.com/user-attachments/assets/7c636839-bca1-4cea-917f-6bbbc76f4a96" />
 
+- The best performing actors are: Jennifer Lawrence, Tom Cruise, Hugh Jackman, Ben Affleck, Adam Sandler
+- The top movies based on Box Office Revenue: Annabelle(Horror), Chernobyl Diaries(Horror), Insidious: Chapter 2(Horror), The Devil Inside(Horror), Unfriended(Horror)
+- Top-5 Directors based on Box Office Revenue: Chris Renaud, Zack Snyder, Francis Lawrence, Bryan Singer, Steve Martin
+- Top-5 genres are: Action, Comedy, Drama, Sci-Fi, Adventure
+- Seasonal patterns in movie performance: Movies released between May and July generally showed the strongest box office performance
+
 ### M-Code
 ```
 let
@@ -80,5 +86,11 @@ in
 ```
 
 ### Recommendations
-<img width="360" height="146" alt="Снимок" src="https://github.com/user-attachments/assets/ac59add8-d33d-4d79-9fae-73abf69da7b6" />
+1.	Focus on Action movies to generate high revenue, while continuing to invest in Comedy productions.
+2.	Increase investment in lower-budget Horror movies to achieve higher ROI. For example, Insidious: Chapter 2 earned $161.9 million with a budget of just $5 million, demonstrating the potential for strong returns with relatively small investments. The Devil Inside also achieved an impressive ROI of 10,080%.
+3.	Consider working with successful directors such as Zack Snyder and Justin Lin for major productions, and James Wan for Horror movies.
+4.	Consider experienced actors such as Ray Romano, Bradley Cooper, and Ben Affleck when planning future projects.
+5.	Schedule major releases between May and July to take advantage of seasonal trends.
+6.	Diversify the production portfolio by combining high-budget movies with smaller, high-ROI productions.
 
+<img width="468" height="36" alt="The Devil Inside" src="https://github.com/user-attachments/assets/077397c6-07a3-4cfa-841e-6e0111e1d37f" />
