@@ -4,8 +4,8 @@
 [Data Source](#data-source)
 [Tools](#tools)
 [Dashboard](#dashboard)
-[M-Code](m-code)
-[Recommendations](Recommendations)
+[M-Code](#m-code)
+[Recommendations](#recommendations)
 ### Problem Statement
 Netflix wants to better understand which movie they should produce next, including the most suitable actors and directors. We have a dataset containing movie budgets, box office performance, actors, directors, and genres.
 Your task is to build an Excel dashboard that provides insights into this dataset. The dashboard should help identify:
