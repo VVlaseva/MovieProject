@@ -94,3 +94,5 @@ in
 6.	Diversify the production portfolio by combining high-budget movies with smaller, high-ROI productions.
 
 <img width="468" height="36" alt="The Devil Inside" src="https://github.com/user-attachments/assets/077397c6-07a3-4cfa-841e-6e0111e1d37f" />
+<br><br>
+<img width="360" height="146" alt="Снимок" src="https://github.com/user-attachments/assets/1c037c93-4d06-49d9-869d-20fc4b7e7f2f" />
